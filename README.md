@@ -16,8 +16,14 @@ run
 ## Download exe link
 Follow the link to download the exe file
 ```
-  
+  https://my-bucket-files.s3.amazonaws.com/app-fullstack-movies.zip
 ```
+
+## Issues
+Movie player component when clicking card is not showed
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
