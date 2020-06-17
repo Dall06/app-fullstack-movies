@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const baseUrl =
-  'https://ahpjnvuo2f.execute-api.us-east-1.amazonaws.com/prod/api/v2/users';
+  'url';
 
 export default (method, path, data, params = {}, headers = {}) =>
   axios({
