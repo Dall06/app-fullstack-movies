@@ -1,8 +1,7 @@
 {
   "name": "node-js-express-template",
   "author": {
-    "name": "Jorge Hernandez",
-    "email": "jorgehdzg1991@gmail.com"
+    "name": "Diego Alberto León López",
   },
   "version": "1.0.0",
   "main": "index.js",
