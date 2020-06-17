@@ -1,7 +1,5 @@
 ﻿# app-fullstack-movies
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Description
 
 Full stack project
